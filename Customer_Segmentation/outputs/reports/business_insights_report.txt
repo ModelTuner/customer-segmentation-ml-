@@ -1,0 +1,47 @@
+Business Insights Report
+============================
+Silhouette score: 0.036
+Inertia: 11282.87
+Cluster sizes: {'0': 230, '1': 148, '2': 122}
+
+Recommended actions:
+- Prioritize high-value clusters with targeted loyalty offers.
+- Improve retention for low-engagement clusters through reactivation campaigns.
+- Personalize promotions by customer channel and region.
+
+Persona summary:
+Customer Persona Report
+==============================
+
+Cluster 0
+--------------------
+Customer count: 230
+Average annual income: $71,445
+Average spending score: 71.7
+Average loyalty score: 67.8
+Most common channel: Online
+Most common region: North
+Persona: High-value, engaged, and retention-focused
+Recommendation: Offer personalized loyalty incentives and premium support
+
+Cluster 1
+--------------------
+Customer count: 148
+Average annual income: $71,533
+Average spending score: 71.9
+Average loyalty score: 68.2
+Most common channel: Online
+Most common region: West
+Persona: High-value, engaged, and retention-focused
+Recommendation: Offer personalized loyalty incentives and premium support
+
+Cluster 2
+--------------------
+Customer count: 122
+Average annual income: $73,888
+Average spending score: 70.1
+Average loyalty score: 66.6
+Most common channel: Online
+Most common region: South
+Persona: High-value, engaged, and retention-focused
+Recommendation: Offer personalized loyalty incentives and premium support
